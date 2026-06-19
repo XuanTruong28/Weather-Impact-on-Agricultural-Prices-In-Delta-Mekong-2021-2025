@@ -1,6 +1,6 @@
 # Weather Impact on Agricultural Prices (2021-2025)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VML3xjLTzdL-ng1prPrEFtWx7PPT6-R8?hl=vi#scrollTo=YbfkLj-ZgLKQ)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XuanTruong28/Climate-impact-mekong-delta-agriculture/blob/main/SEMINAR.ipynb?hl=vi)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-RandomForest-orange)
 
