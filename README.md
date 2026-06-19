@@ -35,7 +35,7 @@ This seminar project investigates the complex relationship between climate chang
 ## 4. How to run
 1. Clone this repository: `git clone <your-repo-url>`
 2. Install requirements: `pip install -r requirements.txt`
-3. Open `Weather_Analysis.ipynb` in Jupyter Notebook or Google Colab.
+3. Open `Seminar.ipynb` in Jupyter Notebook or Google Colab.
 
 
 ## 5. Repository Structure
