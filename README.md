@@ -49,6 +49,6 @@ This seminar project investigates the complex relationship between climate chang
 * `Seminar_Tác_động_thời_tiết_lên_giá_nông_sản_trong_2021-2025.pdf`: The detailed research report.
 * `data/`: Processed datasets used for model training.
 
-*Project conducted by: Trần Xuân Trường - Faculty of Mathematics and Computer Science, VNU-HCM University of Science.*
+*Project conducted by: Tran Xuan Truong - Faculty of Mathematics and Computer Science, VNU-HCM University of Science.*
 
 *Feel free to reach out via [truongxuan2834@gmail.com](mailto:truongxuan2834@gmail.com) for any discussion regarding this project.*
