@@ -30,7 +30,6 @@ This seminar project investigates the complex relationship between climate chang
 ## 3. Key Insights
 1. **Time-Lag Effect:** Our analysis confirmed that saltwater intrusion has a 30-day delayed impact on Durian prices, whereas rice prices react more immediately to flood-induced logistics disruptions.
 * ![Salinity Time-Lag](Charts/TimeLagEffect.png)
-
 2. **Region-Specific Drivers:**
     * **Salinity Cluster (Mặn):** Rainfall (Rain_Man_Mean7) is the most critical driver for Durian prices.
     * **Flood Cluster (Lụt):** Price volatility is primarily driven by temperature and water levels.
